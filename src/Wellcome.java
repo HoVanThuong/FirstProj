@@ -5,5 +5,4 @@ public class Wellcome {
         int maSoSinhVien = 23661861;
         System.out.printf("Em ten la %s\nMa so sinh vien: %s\nTen lop hoc phan la: %s", name, lopHocPhan, maSoSinhVien);
     }
-
 }
